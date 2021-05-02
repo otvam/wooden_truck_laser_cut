@@ -6,9 +6,9 @@
 * The model is particularly **robust**.
 
 <p float="middle">
-    <img src="readme_img/cad_1.png" width="250">
-    <img src="readme_img/cad_2.png" width="250">
-    <img src="readme_img/cad_3.png" width="250">
+    <img src="readme_img/cad_1.jpg" width="250">
+    <img src="readme_img/cad_2.jpg" width="250">
+    <img src="readme_img/cad_3.jpg" width="250">
 </p>
 
 ## Technical Drawing
@@ -38,9 +38,9 @@ Here are the main differences between the proposed model and LuRhe's version:
 ## Photos
 
 <p float="middle">
-    <img src="readme_img/photo_1.png" width="250">
-    <img src="readme_img/photo_2.png" width="250">
-    <img src="readme_img/photo_3.png" width="250">
+    <img src="readme_img/photo_1.jpg" width="250">
+    <img src="readme_img/photo_2.jpg" width="250">
+    <img src="readme_img/photo_3.jpg" width="250">
 </p>
 
 ## Author
