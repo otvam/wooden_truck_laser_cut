@@ -1,7 +1,7 @@
 # Wooden Toy Truck / Laser Cut
 
 * This **Wooden Toy Truck** is realized with **stacked laser cut plates**.
-* The model is inspired by the **Merceded Unimog**.
+* The model is inspired by the **Mercedes Unimog**.
 * The model is particularly **robust**.
 * The toy size is around **25 cm**.
 
