@@ -2,8 +2,8 @@
 
 * This **Wooden Toy Truck** is realized with **stacked laser cut plates**.
 * The model is inspired by the **Merceded Unimog**.
-* The toy size is around **25 cm**.
 * The model is particularly **robust**.
+* The toy size is around **25 cm**.
 
 <p float="middle">
     <img src="readme_img/cad_1.jpg" width="250">
@@ -34,6 +34,7 @@ You can download this version on [Thingiverse](https://www.thingiverse.com/thing
 Here are the main differences between the proposed model and LuRhe's version:
 * A CNC milling machine is not required, all the pieces can be laser-cutted.
 * The model is more robust. Small features have been removed or reinforced.
+* A towing hook has been added on the front and back.
 
 ## Photos
 
