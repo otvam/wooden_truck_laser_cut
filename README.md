@@ -17,10 +17,16 @@
 * The pieces are meant to be cut with a laser-cutter.
 * Alternatively, a scroll saw or milling machine could be used.
 * The different pieces are glued together.
-* The wheel axles (6 mm diameter) can be constructed with wood or metal. 
+* The wheel axles (8 mm diameter) can be constructed with wood or metal.
+* The bearing are done with a plastic pipe (12/8 mm diameter).
 
 <p float="middle">
     <img src="readme_img/wooden_truck_laser_cut.png" width="500">
+</p>
+
+<p float="middle">
+    <img src="readme_img/construction_1.jpg" width="250">
+    <img src="readme_img/construction_2.jpg" width="250">
 </p>
 
 * The PDF with the technical drawing is available in [wooden_truck_laser_cut.pdf](wooden_truck_laser_cut.pdf).
