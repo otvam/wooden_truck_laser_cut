@@ -40,6 +40,7 @@ You can download this version on [Thingiverse](https://www.thingiverse.com/thing
 Here are the main differences between the proposed model and LuRhe's version:
 * A CNC milling machine is not required, all the pieces can be laser-cutted.
 * The model is more robust. Small features have been removed or reinforced.
+* The model is symmetric (between the right and left sides).
 * A towing hook has been added on the front and back.
 
 ## Photos
