@@ -18,7 +18,7 @@
 * Alternatively, a scroll saw or milling machine could be used.
 * The different pieces are glued together.
 * The wheel axles (8 mm diameter) can be constructed with wood or metal.
-* The bearing are done with a plastic pipe (12/8 mm diameter).
+* The bearings are done with a plastic pipes (12/8 mm diameter).
 
 <p float="middle">
     <img src="readme_img/wooden_truck_laser_cut.png" width="500">
