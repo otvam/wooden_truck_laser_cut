@@ -13,12 +13,12 @@
 
 ## Technical Drawing
 
-* The toy is composed of 26 wooden pieces (10 mm thickness).
+* The toy is composed of 26 wooden pieces (10 mm or 2x5 mm thickness).
 * The pieces are meant to be cut with a laser-cutter.
 * Alternatively, a scroll saw or milling machine could be used.
 * The different pieces are glued together.
 * The wheel axles (8 mm diameter) can be constructed with wood or metal.
-* The bearings are done with a plastic pipes (12/8 mm diameter).
+* The bearings are done with plastic pipes (12/8 mm diameter).
 
 <p float="middle">
     <img src="readme_img/wooden_truck_laser_cut.png" width="500">
