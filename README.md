@@ -1,5 +1,10 @@
 # Wooden Toy Truck / Laser Cut
 
+![license - CC BY 4.0](https://img.shields.io/badge/license-CC--BY-green)
+![language - CAD](https://img.shields.io/badge/language-CAD-blue)
+![category - hobby](https://img.shields.io/badge/category-hobby-lightgrey)
+![status - unmaintained](https://img.shields.io/badge/status-unmaintained-red)
+
 * This **Wooden Toy Truck** is realized with **stacked laser cut plates**.
 * The model is inspired by the **Mercedes Unimog**.
 * The model is particularly **robust**.
